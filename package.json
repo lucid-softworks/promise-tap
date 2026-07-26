@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/promise-tap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Run a sync or async side effect on a fulfilled value.",
   "keywords": [
     "javascript",
